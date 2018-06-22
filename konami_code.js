@@ -18,7 +18,7 @@ document.body.addEventListener("keydown", (thingPressed) => {
   console.log(key) 
   
   if (codes[index] == key) {
-    ++idx 
+    ++index 
   } 
   
   else {
