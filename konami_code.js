@@ -13,8 +13,6 @@ const codes = [
 
 let index = 0;
 
-document.addEventListener("click", function init() {
+function init() {
   
 }
-
-
