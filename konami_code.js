@@ -13,6 +13,8 @@ const codes = [
 
 let index = 0;
 
+document.body.add
+
 function init() {
   
 }
