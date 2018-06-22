@@ -31,3 +31,8 @@ docunment.body.addEventListener("keydown", (thingPressed) => {
     index = 0 
   }
 }); 
+
+
+function init() {
+  
+}
