@@ -32,7 +32,3 @@ docunment.body.addEventListener("keydown", (thingPressed) => {
   }
 }); 
 
-
-function init() {
-  
-}
